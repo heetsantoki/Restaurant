@@ -313,6 +313,8 @@ footer {
 .contactus {
     padding-left: 15px;
     background-color: rgb(246, 236, 236);
+    height: 100%;
+    width: 100%;
 }
 
 .contactus h1 {
